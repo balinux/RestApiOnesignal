@@ -1,4 +1,7 @@
 {
+  "scripts" : {
+    "start" : "nodemon api.js"
+  },
   "dependencies": {
     "axios": "^0.18.0",
     "body-parser": "^1.18.3",

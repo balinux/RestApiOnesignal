@@ -1,7 +1,7 @@
 const sender = (data) => {
     var headers = {
         "Content-Type": "application/json; charset=utf-8",
-        "Authorization": "yourkey"
+        "Authorization": "Basic YmRhMDQyMTMtMTQ2MC00MWMwLThmNmEtMThlODU4MDM2ZjUz"
     };
 
     var config = {
